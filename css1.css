@@ -1,0 +1,20 @@
+body {
+    background-image: url(https://images2.alphacoders.com/130/thumbbig-1306136.webp);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1 {
+    font-family: 'Caveat';
+    font-size: 80px;
+}
+
+h2 {
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;    font-size: 20px;
+    border-radius: 100px;
+    background-color: rgb(195, 214, 224);
+    padding: 12px;
+    border: 1px solid rgb(104, 93, 93);
+    cursor: pointer;
+}
